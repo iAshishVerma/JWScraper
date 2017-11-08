@@ -33,8 +33,8 @@ Add CardView  by maven or any way you prefer.confim that the following line is i
 
 * [Jsoup](jsoup.org) - Java Web Scrapping Library
 * [Maven](https://maven.apache.org/) - Dependency Management
-*[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)-DOM node selection
-*[Xpath](https://www.w3schools.com/xml/xpath_intro.asp)-XML path Language
+* [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)-DOM node selection
+* [Xpath](https://www.w3schools.com/xml/xpath_intro.asp)-XML path Language
 
 
 ## Contributing

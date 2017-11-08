@@ -11,10 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 Jsoup Library
 Android Studio
 
-```
-Give examples
-```
-
 ### Installing
 
 Just clone the .git url and using the "import from version control" setting import to your Android Studio
